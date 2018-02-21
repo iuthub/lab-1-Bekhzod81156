@@ -1,0 +1,20 @@
+h1,h3
+{
+	color:blue;
+}
+#text
+{
+	font-style: italic;
+}
+span
+{
+	color: yellow;
+}
+#href
+{
+	color: red;
+}
+body
+{
+	background-color: #99994d;
+}
